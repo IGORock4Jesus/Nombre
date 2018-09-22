@@ -3,4 +3,9 @@
   <ItemGroup>
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="Simple3DVS.hlsl" />
+    <FxCompile Include="Simple3DPS.hlsl" />
+    <FxCompile Include="GUI_VS.hlsl" />
+  </ItemGroup>
 </Project>
